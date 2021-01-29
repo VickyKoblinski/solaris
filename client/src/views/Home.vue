@@ -2,7 +2,7 @@
   <view-container>
     <div class="row bg-primary pt-3 pb-2 mb-2">
       <div class="col">
-          <h3>Welcome to Solaris</h3>
+          <h3>Hello World!</h3>
       </div>
     </div>
 
